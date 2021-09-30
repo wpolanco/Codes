@@ -1,1 +1,1 @@
-https://www.hackerrank.com/challenges/mini-max-sum/problem
+1. https://www.hackerrank.com/challenges/mini-max-sum/problem
