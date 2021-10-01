@@ -3,6 +3,6 @@
 <p>
   <ul>
     <li>Please leave readme.md alone<li>
-    <li>Any program of any language is welcome here </p>
+    <li>Any program of any language is welcome here</li>
   </ul>
   </p>
