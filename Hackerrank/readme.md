@@ -2,3 +2,4 @@
 2. https://www.hackerrank.com/challenges/simple-array-sum/problem
 3. https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
 4. https://www.hackerrank.com/challenges/picking-numbers/problem
+5. https://www.hackerrank.com/challenges/diagonal-difference/problem
